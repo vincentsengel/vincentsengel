@@ -1,6 +1,8 @@
 # Hi, I'm Vincent
 I'm a fullstack developper freshly gradudated from Le Wagon
 
+I am currently looking for a first job as a full-stack or back-end developper
+
 
 ### Find me on:
 </h3>
