@@ -2,7 +2,7 @@
 I'm a fullstack developper freshly gradudated from Le Wagon
 
 
-###Connect with me:
+### Connect with me:
 </h3>
 	<p align="left">
 	<a href="https://linkedin.com/in/https://www.linkedin.com/in/vincent-sengel/" target="blank">
